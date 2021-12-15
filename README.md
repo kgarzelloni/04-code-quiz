@@ -6,7 +6,10 @@
 
 AS A coding boot camp student
 I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
+SO THAT I can gauge my progress compared to my peers.
+
+As a coding student this project provided the opportunity to utilize skills covered up to this point in the course. This exercise reinforced lessons from HTML, CSS, Javascript and Third Party APIs. Specifically, manipulating the DOM and the appendChild methods were practiced in this project. 
+
 ```
 
 ## Acceptance Criteria
