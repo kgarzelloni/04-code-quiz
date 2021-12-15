@@ -26,8 +26,7 @@ THEN I can save my initials and my score
 ```
 
 ## Screen Shot
-
-![screenshot](https://user-images.githubusercontent.com/94555980/146137702-5d72895e-6920-47c3-a766-67eb93765484.jpg)
+![](assets/screenshot.png) 
 
 
 ## URL to deplyed page 
