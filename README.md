@@ -29,7 +29,11 @@ THEN I can save my initials and my score
 ```
 
 ## Screen Shot
-![screenshot](https://user-images.githubusercontent.com/94555980/146220650-adb9d749-07cd-44ee-9e95-c39a47c178d1.png)
+
+The following image shows the web application's appearance:
+
+
+![Screen Shot](https://user-images.githubusercontent.com/94555980/146220650-adb9d749-07cd-44ee-9e95-c39a47c178d1.png)
 
 
 ## URL to deplyed page 
